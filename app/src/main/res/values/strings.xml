@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MeFirst</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="titie">MeFirst</string>
+    <string name="login">LOG IN</string>
+    <string name="userName">CUNYfirst Username</string>
+    <string name="title_activity_class_schedule">ClassSchedule</string>
+    <string name="title_activity_course">Course</string>
+
+</resources>
