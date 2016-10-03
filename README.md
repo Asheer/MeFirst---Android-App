@@ -1,6 +1,7 @@
 # MeFirst---Android-App
 
-Android version of my first-released iOS app. Play store link: https://play.google.com/store/apps/details?id=asheertanveer.com.mefirst&hl=en
+Android version of my first-released iOS app. 
+Play store link: https://play.google.com/store/apps/details?id=asheertanveer.com.mefirst&hl=en
 
 MeFirst is the first app and reference tool that allows CUNY college students to view their academic records from CUNYfirst in the most secure, organized, and convenient manner. This includes the latest class schedule, course history, and college balances. It was developed by me to make it easier for student to access the academic information they want to right on their fingerprints. More features are coming soon.
 
